@@ -3,7 +3,7 @@ const config = {
     mainText: "💖будешь моей валентинкой?💖",
 
     yesRedirect: "https://youtu.be/r5RlOnjoHf0?si=fSv7kztiw4QFfr5Q",
-    noRedirect: "https://службапоконтракту.рф",
+    noRedirect: "https://youtu.be/qD4ArIhp7r8?si=jNT-nO3WdCZccTVc",
 
     yesButtonTexts: [
         "да🥰",
@@ -102,4 +102,5 @@ function createHeart() {
         heart.remove();
     }, 2500);
 }
+
 
